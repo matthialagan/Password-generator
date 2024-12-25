@@ -9,7 +9,7 @@ A simple Python-based password generator
 - Python 
 - Tkinter library (usually bundled with Python) 
 ## Usage 
- 1. Run the script: `python PasswordGenerator.py`
+ 1. Run the script: `python PW_generator.py`
  2. Passwrod generator dialogue box opens, where we enter the password length required and click on generate.
  3. The password will generate in a dialogue box and be copied to the clipboard automatically. 
 
